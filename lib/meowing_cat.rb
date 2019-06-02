@@ -6,4 +6,3 @@ def meow
   puts = "meow!"
 end
 
-Cat
