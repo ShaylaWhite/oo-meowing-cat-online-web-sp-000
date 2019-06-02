@@ -3,4 +3,4 @@ class Cat
 end
 
 def meow = Cat.new
-  meow
+  meow.name
