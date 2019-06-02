@@ -6,4 +6,4 @@ def meow = Cat.new
   meow.name = "Meow"
 end
 
-puts meow
+puts meow.name
