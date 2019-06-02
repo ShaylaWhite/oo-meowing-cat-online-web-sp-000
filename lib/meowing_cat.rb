@@ -6,3 +6,4 @@ def meow(name)
   puts = "meow!"
 end
 
+meow.name
